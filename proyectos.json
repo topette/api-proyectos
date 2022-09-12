@@ -1,7 +1,8 @@
 {
   "proyectos": [
       {
-          "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
+            "id": "01",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
           "pretitulo": "Desarrollo en React + Vite",
           "titulo": "To Do List",
           "descripcion": "Ejercicio de listado de tareas para el diplomado en Frontend con React. Vite + React TailwindCss, Desarrollado: CRUD y LocalStorage",
@@ -15,6 +16,7 @@
           "UrlNetlify": "https://zippy-caramel-bb380d.netlify.app/"
       },
       {
+            "id": "02",
            "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
           "pretitulo": "Desarrollo en React",
           "titulo": "Api Superheroes",
