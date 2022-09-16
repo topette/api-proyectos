@@ -62,31 +62,33 @@
           },
           {
                 "id": "05",
-                "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-                "pretitulo": "Desarrollo en React + Vite",
+                "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-comentario.jpg?alt=media&token=08423c9d-2c45-484b-887f-d530cdc74e62",
+                "pretitulo": "React, Vite",
                 "titulo": "Caja de comentarios",
-                "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
-                "desarrollo": "En desarrollo",
+                "descripcion": "Comments box exercise with React and Material UI",
+                "desarrollo": "Functional",
                 "etiquetas": [{
                       "tag1": "React.js",
-                      "tag2": "Material UI"
+                      "tag2": "Material UI",
+                      "tag3": "Javascript"
                         }],
                 "UrlGithub": "https://github.com/topette/Caja-de-comentarios",
-                "UrlNetlify": "https://google.com"
+                "UrlNetlify": "comments-box-topette.netlify.app"
             },
             {
                   "id": "06",
-                  "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-                  "pretitulo": "Desarrollo en React + Vite",
-                  "titulo": "App tipo Trello",
-                  "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
-                  "desarrollo": "En desarrollo",
+                  "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-trello.jpg?alt=media&token=1ef2870d-d2b5-4df5-a3fd-f816b34c57a4",
+                  "pretitulo": "Javascript development",
+                  "titulo": "Trello Clone",
+                  "descripcion": "Javascript exercise, cloning a Trello App, using Javascript, Bootstrap, Firebase and axios.",
+                  "desarrollo": "Online",
                   "etiquetas": [{
-                        "tag1": "React.js",
-                        "tag2": "Material UI"
+                        "tag1": "Javascript",
+                        "tag2": "Bootstrap",
+                        "tag3": "Axios"
                           }],
                   "UrlGithub": "https://github.com/topette/M3U2TrelloApp-topette",
-                  "UrlNetlify": "https://google.com"
+                  "UrlNetlify": "https://trello-clone-app-topette.netlify.app/"
               }
       ]
     }
