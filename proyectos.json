@@ -64,7 +64,7 @@
                 "id": "05",
                 "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-comentario.jpg?alt=media&token=08423c9d-2c45-484b-887f-d530cdc74e62",
                 "pretitulo": "React, Vite",
-                "titulo": "Caja de comentarios",
+                "titulo": "Comments Box",
                 "descripcion": "Comments box exercise with React and Material UI",
                 "desarrollo": "Functional",
                 "etiquetas": [{
