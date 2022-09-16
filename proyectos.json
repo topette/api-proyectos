@@ -1,120 +1,92 @@
 {
-  "proyectos": [
-      {
-            "id": "01",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-          "pretitulo": "Desarrollo en React + Vite",
-          "titulo": "To Do List",
-          "descripcion": "Ejercicio de listado de tareas para el diplomado en Frontend con React. Vite + React TailwindCss, Desarrollado: CRUD y LocalStorage",
-          "desarrollo": "En desarrollo",
-          "etiquetas": [{
-                "tag1": "React.js",
-                "tag2": "API",
-                "tag3": "Json Server"
-                  }],
-          "UrlGithub": "https://github.com/topette/Listado-de-Tareas-To-Do",
-          "UrlNetlify": "https://zippy-caramel-bb380d.netlify.app/"
-      },
-      {
-            "id": "02",
-           "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-          "pretitulo": "Desarrollo en React",
-          "titulo": "Api Superheroes",
-          "descripcion": "Desarrollo de aplicacion de super heroes de Marvel y DC, en React, Fake API",
-          "desarrollo": "En desarrollo",
-          "etiquetas": [{
-                "tag1": "React.js",
-                "tag2": "API",
-                "tag3": "Json Server"
-                  }],
-          "UrlGithub": "https://google.com",
-          "UrlNetlify": "https://google.com"
-      },
-	  {
-          "id": "03",
-          "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-          "pretitulo": "Desarrollo en React Typescript",
-          "titulo": "Aplicacion del clima",
-          "descripcion": "App de consulta del estado del clima con buscador",
-          "desarrollo": "En desarrollo",
-          "etiquetas": [{
-                "tag1": "React.js",
-                "tag2": "API",
-                "tag3": "Json Server"
-                  }],
-          "UrlGithub": "https://google.com",
-          "UrlNetlify": "https://google.com"
-      },
-	  {
-          "id": "04",
-          "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-          "pretitulo": "Desarrollo en React, Figma",
-          "titulo": "Landing page",
-          "descripcion": "Ejecución de la landing page realizada en Figma, React.",
-          "desarrollo": "En desarrollo",
-          "etiquetas": [{
-                "tag1": "React.js",
-                "tag2": "API",
-                "tag3": "Json Server"
-                  }],
-          "UrlGithub": "https://google.com",
-          "UrlNetlify": "https://google.com"
-      },
-	  {
-          "id": "05",
-          "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-          "pretitulo": "Desarrollo en React + Vite",
-          "titulo": "Contador",
-          "descripcion": "Ejercicio basico de contador con React y Vite",
-          "desarrollo": "En desarrollo",
-          "etiquetas": [{
-                "tag1": "React.js",
-                "tag2": "Vite"
-                  }],
-          "UrlGithub": "https://google.com",
-          "UrlNetlify": "https://google.com"
-      },
-      {
-            "id": "06",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-            "pretitulo": "Desarrollo en React + Vite",
-            "titulo": "Caja de comentarios",
-            "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
-            "desarrollo": "En desarrollo",
-            "etiquetas": [{
-                  "tag1": "React.js",
-                  "tag2": "Material UI"
-                    }],
-            "UrlGithub": "https://github.com/topette/Caja-de-comentarios",
-            "UrlNetlify": "https://google.com"
-        },
-        {
-              "id": "07",
+      "proyectos": [
+          {
+                  "id": "01",
               "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-              "pretitulo": "Desarrollo en React + Vite",
-              "titulo": "App tipo Trello",
-              "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
+              "pretitulo": "Development in React + Vite",
+              "titulo": "To Do List",
+              "descripcion": "Task list excercise for the FIMLM's Frontend Course. Using Vite, React, TailwindCss, CRUD and LocalStorage",
+              "desarrollo": "Finished",
+              "etiquetas": [{
+                    "tag1": "Reactjs",
+                    "tag2": "CRUD",
+                    "tag3": "Localstorage"
+                      }],
+              "UrlGithub": "https://github.com/topette/Listado-de-Tareas-To-Do",
+              "UrlNetlify": "https://zippy-caramel-bb380d.netlify.app/"
+          },
+          {
+                  "id": "02",
+               "imagen": "",
+              "pretitulo": "React Development",
+              "titulo": "Superheroes App",
+              "descripcion": "Which multiverse are you from? Marvel or DC. App developed with React and Json Server",
+              "desarrollo": "Finished",
+              "etiquetas": [{
+                    "tag1": "React.js",
+                    "tag2": "API",
+                    "tag3": "Json Server"
+                      }],
+              "UrlGithub": "https://github.com/topette/superapi",
+              "UrlNetlify": "https://app-fimlm-superheroes-topette.netlify.app/"
+          },
+            {
+              "id": "03",
+              "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
+              "pretitulo": "Desarrollo en React Typescript",
+              "titulo": "Aplicacion del clima",
+              "descripcion": "App de consulta del estado del clima con buscador",
               "desarrollo": "En desarrollo",
               "etiquetas": [{
                     "tag1": "React.js",
-                    "tag2": "Material UI"
+                    "tag2": "API",
+                    "tag3": "Json Server"
                       }],
-              "UrlGithub": "https://github.com/topette/M3U2TrelloApp-topette",
+              "UrlGithub": "https://google.com",
+              "UrlNetlify": "https://google.com"
+          },
+            {
+              "id": "04",
+              "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
+              "pretitulo": "Desarrollo en React, Figma",
+              "titulo": "Landing page",
+              "descripcion": "Ejecución de la landing page realizada en Figma, React.",
+              "desarrollo": "En desarrollo",
+              "etiquetas": [{
+                    "tag1": "React.js",
+                    "tag2": "API",
+                    "tag3": "Json Server"
+                      }],
+              "UrlGithub": "https://google.com",
               "UrlNetlify": "https://google.com"
           },
           {
-                "id": "08",
+                "id": "05",
                 "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
                 "pretitulo": "Desarrollo en React + Vite",
-                "titulo": "Listado de contactos y buscador",
+                "titulo": "Caja de comentarios",
                 "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
                 "desarrollo": "En desarrollo",
                 "etiquetas": [{
                       "tag1": "React.js",
                       "tag2": "Material UI"
                         }],
-                "UrlGithub": "https://github.com/topette/M3U2TrelloApp-topette",
+                "UrlGithub": "https://github.com/topette/Caja-de-comentarios",
                 "UrlNetlify": "https://google.com"
-            }
-  ]
-}
+            },
+            {
+                  "id": "06",
+                  "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
+                  "pretitulo": "Desarrollo en React + Vite",
+                  "titulo": "App tipo Trello",
+                  "descripcion": "Ejercicio basico de caja de comentarios con React, Material UI",
+                  "desarrollo": "En desarrollo",
+                  "etiquetas": [{
+                        "tag1": "React.js",
+                        "tag2": "Material UI"
+                          }],
+                  "UrlGithub": "https://github.com/topette/M3U2TrelloApp-topette",
+                  "UrlNetlify": "https://google.com"
+              }
+      ]
+    }
