@@ -33,14 +33,14 @@
             {
               "id": "03",
               "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
-              "pretitulo": "Desarrollo en React Typescript",
-              "titulo": "Aplicacion del clima",
-              "descripcion": "App de consulta del estado del clima con buscador",
-              "desarrollo": "En desarrollo",
+              "pretitulo": "React with Typescript",
+              "titulo": "Weather App",
+              "descripcion": "Weather status query app with search engine",
+              "desarrollo": "In Development",
               "etiquetas": [{
-                    "tag1": "React.js",
+                    "tag1": "Typescript",
                     "tag2": "API",
-                    "tag3": "Json Server"
+                    "tag3": "React"
                       }],
               "UrlGithub": "https://google.com",
               "UrlNetlify": "https://google.com"
@@ -73,7 +73,7 @@
                       "tag3": "Javascript"
                         }],
                 "UrlGithub": "https://github.com/topette/Caja-de-comentarios",
-                "UrlNetlify": "comments-box-topette.netlify.app"
+                "UrlNetlify": "https://comments-box-topette.netlify.app"
             },
             {
                   "id": "06",
