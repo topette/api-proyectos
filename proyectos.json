@@ -5,7 +5,7 @@
               "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
               "pretitulo": "Development in React + Vite",
               "titulo": "To Do List",
-              "descripcion": "Task list excercise for the FIMLM's Frontend Course. Using Vite, React, TailwindCss, CRUD and LocalStorage",
+              "descripcion": "Task list test for the FIMLM's Frontend Course. Using Vite, React, TailwindCss, CRUD and LocalStorage",
               "desarrollo": "Finished",
               "etiquetas": [{
                     "tag1": "Reactjs",
@@ -32,7 +32,7 @@
           },
             {
               "id": "03",
-              "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example.jpg?alt=media&token=3c646cdf-720f-42d1-a678-b407c1fc94a7",
+              "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-weather.jpg?alt=media&token=32613568-3c40-4599-98d3-74e9fca89d5b",
               "pretitulo": "React with Typescript",
               "titulo": "Weather App",
               "descripcion": "Weather status query app with search engine",
@@ -42,8 +42,8 @@
                     "tag2": "API",
                     "tag3": "React"
                       }],
-              "UrlGithub": "https://google.com",
-              "UrlNetlify": "https://google.com"
+              "UrlGithub": "https://github.com/topette/weather-app",
+              "UrlNetlify": "https://weather-app-topette.netlify.app"
           },
             {
               "id": "04",
@@ -65,7 +65,7 @@
                 "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-comentario.jpg?alt=media&token=08423c9d-2c45-484b-887f-d530cdc74e62",
                 "pretitulo": "React, Vite",
                 "titulo": "Comments Box",
-                "descripcion": "Comments box exercise with React and Material UI",
+                "descripcion": "Comments box test with React and Material UI",
                 "desarrollo": "Functional",
                 "etiquetas": [{
                       "tag1": "React.js",
