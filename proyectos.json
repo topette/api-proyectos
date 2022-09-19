@@ -80,7 +80,7 @@
                   "imagen": "https://firebasestorage.googleapis.com/v0/b/miportafolio-cd3e1.appspot.com/o/app-example-trello.jpg?alt=media&token=1ef2870d-d2b5-4df5-a3fd-f816b34c57a4",
                   "pretitulo": "Javascript development",
                   "titulo": "Trello Clone",
-                  "descripcion": "Javascript exercise, cloning a Trello App, using Javascript, Bootstrap, Firebase and axios.",
+                  "descripcion": "Javascript test, cloning a Trello App, using Javascript, Bootstrap, Firebase and axios.",
                   "desarrollo": "Online",
                   "etiquetas": [{
                         "tag1": "Javascript",
